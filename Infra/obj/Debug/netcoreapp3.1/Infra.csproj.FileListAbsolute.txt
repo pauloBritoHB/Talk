@@ -1,0 +1,36 @@
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\Infra\obj\Debug\netcoreapp3.1\Infra.pdb

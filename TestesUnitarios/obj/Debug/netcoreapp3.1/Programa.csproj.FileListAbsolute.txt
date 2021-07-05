@@ -1,0 +1,60 @@
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.exe
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.deps.json
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.json
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.dev.json
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csprojAssemblyReference.cache
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.AssemblyInfoInputs.cache
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.AssemblyInfo.cs
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csproj.CoreCompileInputs.cache
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csproj.CopyComplete
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Paulo.brito\Desktop\testes unitarios\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.genruntimeconfig.cache
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.exe
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.deps.json
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.json
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.dev.json
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csprojAssemblyReference.cache
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.AssemblyInfoInputs.cache
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.AssemblyInfo.cs
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csproj.CoreCompileInputs.cache
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csproj.CopyComplete
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Paulo.brito\Desktop\copia\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.genruntimeconfig.cache
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.exe
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.deps.json
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.json
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.dev.json
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csprojAssemblyReference.cache
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.AssemblyInfoInputs.cache
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.AssemblyInfo.cs
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csproj.CoreCompileInputs.cache
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.csproj.CopyComplete
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.dll
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.pdb
+C:\Users\Paulo.brito\Desktop\TalkTestes\TestesUnitarios\TestesUnitarios\obj\Debug\netcoreapp3.1\Programa.genruntimeconfig.cache
